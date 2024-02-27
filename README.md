@@ -1,2 +1,2 @@
 # ConnectFour
-Connect Four game in Blazor
+Connect Four game created using Blazor framework
